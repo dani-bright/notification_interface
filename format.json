@@ -1,0 +1,112 @@
+[
+    {
+        "SentAtUtc": "2019-05-13T14:18:53.0723863Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (14:18:53 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 14:00 (UTC)\njob is completed (14:18:53 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 149, FailedTasksCount: 0, SucceededTasksCount: 149",
+            "ContentType": 2
+        }]
+    }, 
+    {
+        "SentAtUtc": "2019-05-13T15:02:40.8524722Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (15:02:40 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 15:00 (UTC)\njob is running (15:02:40 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 149, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+        }]
+    }, 
+    {
+        "SentAtUtc": "2019-05-13T15:18:48.1169058Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (15:18:48 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 15:00 (UTC)\njob is completed (15:18:48 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 149, FailedTasksCount: 0, SucceededTasksCount: 149",
+            "ContentType": 2
+        }]
+    }, 
+    {
+        "SentAtUtc": "2019-05-13T16:02:41.9082826Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (16:02:41 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 16:00 (UTC)\njob is running (16:02:41 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 149, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+        }]
+    }, 
+    {
+        "SentAtUtc": "2019-05-13T16:19:29.9534902Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job has failed",
+        "NotificationLevel": 3,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Critical: Batch *aggregates*\nStarted At 2019/05/13 16:00 (UTC)\njob has failed\n",
+            "ContentType": 2
+        }]
+    },
+    {
+        "SentAtUtc": "2019-05-13T17:00:18.1040933Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (17:00:17 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 17:00 (UTC)\njob is running (17:00:17 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 97, RunningTasksCount: 20, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+        }]
+    }, 
+    {
+        "SentAtUtc": "2019-05-13T17:10:58.6900003Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (17:10:58 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 17:00 (UTC)\njob is completed (17:10:58 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 149, FailedTasksCount: 0, SucceededTasksCount: 149",
+            "ContentType": 2
+        }]
+    }, 
+    {
+        "SentAtUtc": "2019-05-13T18:02:45.3132478Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (18:02:45 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 18:00 (UTC)\njob is running (18:02:45 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 149, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+        }]
+    }, 
+    {
+        "SentAtUtc": "2019-05-13T18:19:00.7123804Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (18:19:00 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 18:00 (UTC)\njob is completed (18:19:00 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 149, FailedTasksCount: 0, SucceededTasksCount: 149",
+            "ContentType": 2
+        }]
+    },
+    {
+        "SentAtUtc": "2019-05-13T18:19:00.7123804Z",
+        "Topic": "Alert/comptes/gifi",
+        "Title": "problem detected on gifi",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [{
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/05/13 18:00 (UTC)\njob is completed (18:19:00 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 149, FailedTasksCount: 0, SucceededTasksCount: 149",
+            "ContentType": 2
+        }]
+    }
+]

@@ -1,0 +1,3473 @@
+[
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T03:34:49.2420746Z",
+        "Topic": "Batches/views",
+        "Title": "Batch views job is running (03:34:49 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *views*\nStarted At 2019/07/01 03:30 (UTC)\njob is running (03:34:49 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T03:51:00.3514657Z",
+        "Topic": "Batches/views",
+        "Title": "Batch views job is completed (03:51:00 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *views*\nStarted At 2019/07/01 03:30 (UTC)\njob is completed (03:51:00 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T10:00:02.59855Z",
+        "Topic": "Batches/Report",
+        "Title": "BatchReport",
+        "NotificationLevel": 1,
+        "Sender": "BatchReporter",
+        "NotificationContents": [
+          {
+            "Content": "Batch Report: *BERGERE DE FRANCE* 5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505\nobjectives: 2019/06/29",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T04:02:42.7912379Z",
+        "Topic": "Batches/interactions",
+        "Title": "Batch interactions job is running (04:02:42 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *interactions*\nStarted At 2019/07/01 04:00 (UTC)\njob is running (04:02:42 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T04:18:41.765198Z",
+        "Topic": "Batches/interactions",
+        "Title": "Batch interactions job is completed (04:18:41 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *interactions*\nStarted At 2019/07/01 04:00 (UTC)\njob is completed (04:18:41 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T06:25:03.46889Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (06:25:03 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 06:25 (UTC)\njob is completed (06:25:03 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T12:37:50.5170776Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (12:37:50 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 12:37 (UTC)\njob is completed (12:37:50 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T13:41:53.4202714Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (13:41:53 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 13:41 (UTC)\njob is completed (13:41:53 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T13:55:35.5668939Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (13:55:35 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 13:55 (UTC)\njob is completed (13:55:35 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:05:49.8708013Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight Pool pool-batchproductsinsight is still there, should have been deleted",
+        "NotificationLevel": 3,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Critical: Batch *productsinsight*\nStarted At 2019/07/01 13:55 (UTC)\nPool pool-batchproductsinsight is still there, should have been deleted\nCloudPoolState: Active, CloudJobState: , IsCompleted: False, ActiveTasksCount: , RunningTasksCount: , CompletedTasksCount: , FailedTasksCount: , SucceededTasksCount: ",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:05:50.84952Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job has failed",
+        "NotificationLevel": 3,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Critical: Batch *productsinsight*\nStarted At 2019/07/01 13:55 (UTC)\njob has failed\n",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:06:38.41372Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is running (14:06:38 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 14:02 (UTC)\njob is running (14:06:38 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 5, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:22:57.9395757Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (14:22:57 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 14:02 (UTC)\njob is completed (14:22:57 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 5, FailedTasksCount: 1, SucceededTasksCount: 4",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:38:47.7210305Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is running (14:38:47 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 14:36 (UTC)\njob is running (14:38:47 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 5, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:49:40.0985449Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (14:49:39 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 14:36 (UTC)\njob is completed (14:49:39 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 5, FailedTasksCount: 0, SucceededTasksCount: 5",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:03:44.9779205Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (15:03:44 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 15:03 (UTC)\njob is completed (15:03:44 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:49:01.1299665Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is running (15:49:01 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 15:46 (UTC)\njob is running (15:49:01 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 3, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:54:21.8215682Z",
+        "Topic": "Batches/productsinsight",
+        "Title": "Batch productsinsight job is completed (15:54:21 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *productsinsight*\nStarted At 2019/07/01 15:46 (UTC)\njob is completed (15:54:21 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 3, FailedTasksCount: 0, SucceededTasksCount: 3",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T05:05:01.8476703Z",
+        "Topic": "Batches/impressionsinboxes",
+        "Title": "Batch impressionsinboxes job is running (05:05:01 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *impressionsinboxes*\nStarted At 2019/07/01 05:00 (UTC)\njob is running (05:05:01 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T05:15:49.67456Z",
+        "Topic": "Batches/impressionsinboxes",
+        "Title": "Batch impressionsinboxes job is completed (05:15:49 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *impressionsinboxes*\nStarted At 2019/07/01 05:00 (UTC)\njob is completed (05:15:49 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:32:43.5724867Z",
+        "Topic": "Batches/events",
+        "Title": "Batch events job is running (02:32:43 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *events*\nStarted At 2019/07/01 02:30 (UTC)\njob is running (02:32:43 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T02:49:01.7736293Z",
+        "Topic": "Batches/events",
+        "Title": "Batch events job is completed (02:49:01 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *events*\nStarted At 2019/07/01 02:30 (UTC)\njob is completed (02:49:01 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T03:02:37.08603Z",
+        "Topic": "Batches/objectives",
+        "Title": "Batch objectives job is running (03:02:37 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *objectives*\nStarted At 2019/07/01 03:00 (UTC)\njob is running (03:02:37 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T03:24:14.1060616Z",
+        "Topic": "Batches/objectives",
+        "Title": "Batch objectives job is completed (03:24:14 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *objectives*\nStarted At 2019/07/01 03:00 (UTC)\njob is completed (03:24:14 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T04:32:27.9109471Z",
+        "Topic": "Batches/interactionsinboxes",
+        "Title": "Batch interactionsinboxes job is running (04:32:27 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *interactionsinboxes*\nStarted At 2019/07/01 04:30 (UTC)\njob is running (04:32:27 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T04:48:41.7363684Z",
+        "Topic": "Batches/interactionsinboxes",
+        "Title": "Batch interactionsinboxes job is completed (04:48:41 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *interactionsinboxes*\nStarted At 2019/07/01 04:30 (UTC)\njob is completed (04:48:41 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T05:34:56.2318345Z",
+        "Topic": "Batches/impressions",
+        "Title": "Batch impressions job is running (05:34:56 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *impressions*\nStarted At 2019/07/01 05:30 (UTC)\njob is running (05:34:56 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T05:45:29.1674273Z",
+        "Topic": "Batches/impressions",
+        "Title": "Batch impressions job is completed (05:45:28 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *impressions*\nStarted At 2019/07/01 05:30 (UTC)\njob is completed (05:45:28 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T07:02:35.0109111Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (07:02:34 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 07:00 (UTC)\njob is running (07:02:34 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T07:18:47.7748133Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (07:18:47 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 07:00 (UTC)\njob is completed (07:18:47 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T08:05:09.2746272Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (08:05:09 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 08:00 (UTC)\njob is running (08:05:09 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T08:16:00.9131382Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (08:16:00 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 08:00 (UTC)\njob is completed (08:16:00 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:05:13.8328088Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (09:05:13 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 09:00 (UTC)\njob is running (09:05:13 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:21:20.7829903Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (09:21:20 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 09:00 (UTC)\njob is completed (09:21:20 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T10:02:49.1782851Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (10:02:48 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 10:00 (UTC)\njob is running (10:02:48 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T10:18:56.9017255Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (10:18:56 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 10:00 (UTC)\njob is completed (10:18:56 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T11:05:01.228036Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (11:05:01 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 11:00 (UTC)\njob is running (11:05:01 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T11:05:48.8819269Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job has failed",
+        "NotificationLevel": 3,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Critical: Batch *aggregates*\nStarted At 2019/07/01 11:00 (UTC)\njob has failed\n",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T12:00:13.344508Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job has failed",
+        "NotificationLevel": 3,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Critical: Batch *aggregates*\nStarted At 2019/07/01 12:00 (UTC)\njob has failed\n",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T13:00:05.7537585Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job has failed",
+        "NotificationLevel": 3,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Critical: Batch *aggregates*\nStarted At 2019/07/01 13:00 (UTC)\njob has failed\n",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:02:33.9338227Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (14:02:33 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 14:00 (UTC)\njob is running (14:02:33 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T14:18:26.1953703Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (14:18:26 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 14:00 (UTC)\njob is completed (14:18:26 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:02:27.3242668Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (15:02:27 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 15:00 (UTC)\njob is running (15:02:27 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:18:34.7965412Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (15:18:34 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 15:00 (UTC)\njob is completed (15:18:34 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T16:04:49.8128856Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (16:04:49 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 16:00 (UTC)\njob is running (16:04:49 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T16:21:01.1027301Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (16:21:01 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 16:00 (UTC)\njob is completed (16:21:01 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T17:02:38.7351133Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (17:02:38 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 17:00 (UTC)\njob is running (17:02:38 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T17:18:42.2466505Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (17:18:42 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 17:00 (UTC)\njob is completed (17:18:42 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T18:02:40.1992825Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is running (18:02:39 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 18:00 (UTC)\njob is running (18:02:39 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T18:18:43.9942777Z",
+        "Topic": "Batches/aggregates",
+        "Title": "Batch aggregates job is completed (18:18:43 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *aggregates*\nStarted At 2019/07/01 18:00 (UTC)\njob is completed (18:18:43 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T06:05:07.3860571Z",
+        "Topic": "Batches/visitors",
+        "Title": "Batch visitors job is running (06:05:07 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *visitors*\nStarted At 2019/07/01 06:00 (UTC)\njob is running (06:05:07 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: False, ActiveTasksCount: 158, RunningTasksCount: 0, CompletedTasksCount: 0, FailedTasksCount: 0, SucceededTasksCount: 0",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T06:47:55.8369137Z",
+        "Topic": "Batches/visitors",
+        "Title": "Batch visitors job is completed (06:47:55 UTC)",
+        "NotificationLevel": 1,
+        "Sender": "BatchLauncher",
+        "NotificationContents": [
+          {
+            "Content": "Info: Batch *visitors*\nStarted At 2019/07/01 06:00 (UTC)\njob is completed (06:47:55 UTC)\nCloudPoolState: Active, CloudJobState: Active, IsCompleted: True, ActiveTasksCount: 0, RunningTasksCount: 0, CompletedTasksCount: 158, FailedTasksCount: 0, SucceededTasksCount: 158",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:38.9857285Z",
+        "Topic": "Account/fbc8b687-0843-4836-8514-d3d09fc3b70b/Monitoring/Info",
+        "Title": "PIMKIE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*PIMKIE* (fbc8b687-0843-4836-8514-d3d09fc3b70b), Campaign *S8 - RETURNING VISITOR -HP* (4b3256bb-5ddc-46ee-a29c-6fb3fd3484ae)\nLast: 250@2019-07-01 08:00. Expected: ExpectedValue: 165, MinExpectedValue: 140, MaxExpectedValue: 190, DeviationRatio: 24.14 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:17:03.574458Z",
+        "Topic": "Account/fbc8b687-0843-4836-8514-d3d09fc3b70b/Monitoring/Alert",
+        "Title": "PIMKIE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*PIMKIE* (fbc8b687-0843-4836-8514-d3d09fc3b70b), Campaign *S10m - Good Customer HP MOBILE* (cfe2aa0e-a6f3-4b42-9c48-7bdeb522dae3).\nLast: 129@2019-07-01 14:00. Expected: ExpectedValue: 182, MinExpectedValue: 155, MaxExpectedValue: 209, DeviationRatio: 19.77 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:14.5887517Z",
+        "Topic": "Account/fbc8b687-0843-4836-8514-d3d09fc3b70b/Monitoring/Alert",
+        "Title": "PIMKIE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*PIMKIE* (fbc8b687-0843-4836-8514-d3d09fc3b70b), Campaign *UX1 -Flag produits déjà vu* (f7c2721b-4cf2-4d1b-86d9-dbfbc23a1afe).\nLast: 730@2019-07-01 14:00. Expected: ExpectedValue: 958, MinExpectedValue: 814, MaxExpectedValue: 1,101, DeviationRatio: 11.52 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:36.8611095Z",
+        "Topic": "Account/fbc8b687-0843-4836-8514-d3d09fc3b70b/Monitoring/Alert",
+        "Title": "PIMKIE",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): Low CampaignImpressions for\n*PIMKIE* (fbc8b687-0843-4836-8514-d3d09fc3b70b), Campaign *S9 - E-resa MOBILE* (0ef0a723-da8d-497e-8388-349101b36530).\nLast: 10@2019-07-01 14:00. Expected: ExpectedValue: 17, MinExpectedValue: 14, MaxExpectedValue: 19, DeviationRatio: 41.14 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:09.9374179Z",
+        "Topic": "Account/fc163651-c9c6-4c99-9849-1fc860790c90/Monitoring/Info",
+        "Title": "ZENDART",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High Visits for\n*ZENDART* (fc163651-c9c6-4c99-9849-1fc860790c90)\nLast: 9,884,892@2019-06-30 00:00. Expected: ExpectedValue: 7,776,229, MinExpectedValue: 6,609,795, MaxExpectedValue: 8,942,664, DeviationRatio: 9.53 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:32.1216809Z",
+        "Topic": "Account/fc163651-c9c6-4c99-9849-1fc860790c90/Monitoring/Info",
+        "Title": "ZENDART",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*ZENDART* (fc163651-c9c6-4c99-9849-1fc860790c90), Campaign *S4bis.Upsell > 150€ : Mobile* (38d2b087-7fb7-47d2-983b-aa656afdc3ec)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 56.34 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:01.3780349Z",
+        "Topic": "Account/fc163651-c9c6-4c99-9849-1fc860790c90/Monitoring/Info",
+        "Title": "ZENDART",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*ZENDART* (fc163651-c9c6-4c99-9849-1fc860790c90), Campaign *S3.Visiteur engagé sans panier : PC* (a0b1f201-6bf6-4949-a850-e718763cdd3d)\nLast: 2@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 52.23 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:28.9948516Z",
+        "Topic": "Account/fc163651-c9c6-4c99-9849-1fc860790c90/Monitoring/Info",
+        "Title": "ZENDART",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*ZENDART* (fc163651-c9c6-4c99-9849-1fc860790c90), Campaign *S3bis.Visiteur engagé sans panier : Mobile* (30ca2528-5174-4f1d-bbdf-821d31e5eb58)\nLast: 2@2019-07-01 13:00. Expected: ExpectedValue: 2, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 4.34 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:50.1335615Z",
+        "Topic": "Account/fc163651-c9c6-4c99-9849-1fc860790c90/Monitoring/Info",
+        "Title": "ZENDART",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*ZENDART* (fc163651-c9c6-4c99-9849-1fc860790c90), Campaign *S4bis.Upsell > 150€ : Mobile* (38d2b087-7fb7-47d2-983b-aa656afdc3ec)\nLast: 1@2019-07-01 11:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 26.26 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:45:14.730082Z",
+        "Topic": "Account/fbc8b687-0843-4836-8514-d3d09fc3b70b/Monitoring",
+        "Title": "Anomaly detected for PIMKIE",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account PIMKIE.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=fbc8b687-0843-4836-8514-d3d09fc3b70b'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *PIMKIE*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=fbc8b687-0843-4836-8514-d3d09fc3b70b",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:06.7646141Z",
+        "Topic": "Account/f37e9daf-d195-4bc1-a399-e6f71d59448d/Monitoring/Alert",
+        "Title": "BESSON CHAUSSURES",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*BESSON CHAUSSURES* (f37e9daf-d195-4bc1-a399-e6f71d59448d).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:09.3254348Z",
+        "Topic": "Account/fbfed4a1-4381-4c4d-9f47-d1897cf08cfe/Monitoring/Alert",
+        "Title": "RESERVIT",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*RESERVIT* (fbfed4a1-4381-4c4d-9f47-d1897cf08cfe).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:01.0726027Z",
+        "Topic": "Account/f79de935-278b-46d2-b304-37dfcf62bb44/Monitoring/Alert",
+        "Title": "Showroomvip",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*Showroomvip* (f79de935-278b-46d2-b304-37dfcf62bb44).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:06.0839011Z",
+        "Topic": "Account/ec3a90ea-c2ed-46c1-8e14-b73f8e08b465/Monitoring/Info",
+        "Title": "CARTOUCHE DU TONER",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High Visits for\n*CARTOUCHE DU TONER* (ec3a90ea-c2ed-46c1-8e14-b73f8e08b465)\nLast: 727,447@2019-06-30 00:00. Expected: ExpectedValue: 335,568, MinExpectedValue: 285,232, MaxExpectedValue: 385,903, DeviationRatio: 46.95 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:15:56.0334783Z",
+        "Topic": "Account/ec3a90ea-c2ed-46c1-8e14-b73f8e08b465/Monitoring/Info",
+        "Title": "CARTOUCHE DU TONER",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CARTOUCHE DU TONER* (ec3a90ea-c2ed-46c1-8e14-b73f8e08b465), Campaign *Pop-in abandon visiteurs engagés* (9d452ee4-7ec6-4862-9fbb-ca8db5da1847)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 36.38 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:27.5206221Z",
+        "Topic": "Account/e9519d2b-147a-4b49-940b-e5ad19921e3c/Monitoring/Info",
+        "Title": "Poele a bois maison",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Poele a bois maison* (e9519d2b-147a-4b49-940b-e5ad19921e3c), Campaign *Abandon de panier > 167€HT -A/B Testing CART* (93cb7fdc-f808-4ea6-88f6-72dd5cd8adf1)\nLast: 2@2019-07-01 07:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 44.31 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:55.4893381Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Alert",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): Low CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *2210 - Afficher numéro - Hésitant /test* (f8ce5d65-1889-4e3e-98c8-455aefa9f104).\nLast: 57@2019-07-01 08:00. Expected: ExpectedValue: 97, MinExpectedValue: 83, MaxExpectedValue: 112, DeviationRatio: 45.14 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:28.2654044Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Alert",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *Abandon d'ajout pdt  > 167€HT -A/B Testing* (8110084e-2e63-4671-a1e9-e60e6119b247).\nLast: 2@2019-07-01 14:00. Expected: ExpectedValue: 3, MinExpectedValue: 2, MaxExpectedValue: 3, DeviationRatio: 16.29 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:16.0102608Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Info",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *Abandon d'ajout pdt  > 167€HT -A/B Testing* (8110084e-2e63-4671-a1e9-e60e6119b247)\nLast: 5@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 65.53 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:30.8417418Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Info",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *Abandon de site sans pdt - A/B Testing* (3888430d-40bc-4d74-9b2a-3bcfb9b4f27d)\nLast: 12@2019-07-01 08:00. Expected: ExpectedValue: 6, MinExpectedValue: 5, MaxExpectedValue: 7, DeviationRatio: 39.06 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:03.8855046Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Info",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *2210 - Afficher numéro - Hésitant /test* (f8ce5d65-1889-4e3e-98c8-455aefa9f104)\nLast: 122@2019-07-01 14:00. Expected: ExpectedValue: 98, MinExpectedValue: 83, MaxExpectedValue: 113, DeviationRatio: 7.44 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:45.732069Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Info",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *Abandon de site sans pdt - A/B Testing* (3888430d-40bc-4d74-9b2a-3bcfb9b4f27d)\nLast: 16@2019-07-01 14:00. Expected: ExpectedValue: 7, MinExpectedValue: 6, MaxExpectedValue: 8, DeviationRatio: 51.36 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:59.7049243Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Info",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *Abandon de site sans produit dans panier- Promo* (a7870b61-6794-4a79-ad9d-8bb29bd31bc1)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 88.68 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:10.8638963Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Info",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *Abandon d'ajout pdt  < 167€HT -A/B Testing* (ff3f0936-d037-433e-aab2-3d5bcd3bd884)\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 2, MinExpectedValue: 2, MaxExpectedValue: 2, DeviationRatio: 22.64 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:36.2538167Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring/Info",
+        "Title": "Motorisation Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Motorisation Plus* (ebb7b389-1403-4875-b10d-311957067f26), Campaign *Abandon d'ajout pdt < 833€ HT Promo* (ed497057-0a1c-4046-a2e4-6b0398bc447f)\nLast: 1@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 94.60 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:45:13.8005383Z",
+        "Topic": "Account/ebb7b389-1403-4875-b10d-311957067f26/Monitoring",
+        "Title": "Anomaly detected for Motorisation Plus",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account Motorisation Plus.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=ebb7b389-1403-4875-b10d-311957067f26'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *Motorisation Plus*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=ebb7b389-1403-4875-b10d-311957067f26",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:51.7910191Z",
+        "Topic": "Account/e4963c4d-3325-4c6a-bc85-bdc62dfb923c/Monitoring/Info",
+        "Title": "MONCEAU FLEURS",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*MONCEAU FLEURS* (e4963c4d-3325-4c6a-bc85-bdc62dfb923c), Campaign *S1 - Popin - Abandons - Desktop* (598704ea-3992-4e80-818a-1e84f61e68fe)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 92.97 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:13.0272043Z",
+        "Topic": "Account/e4963c4d-3325-4c6a-bc85-bdc62dfb923c/Monitoring/Info",
+        "Title": "MONCEAU FLEURS",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*MONCEAU FLEURS* (e4963c4d-3325-4c6a-bc85-bdc62dfb923c), Campaign *Header bar upsell livraison gratuite* (74140ad6-8292-4b59-9708-e7b0ab883d3b)\nLast: 8@2019-07-01 07:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 86.26 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:07.8577629Z",
+        "Topic": "Account/e4963c4d-3325-4c6a-bc85-bdc62dfb923c/Monitoring/Info",
+        "Title": "MONCEAU FLEURS",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*MONCEAU FLEURS* (e4963c4d-3325-4c6a-bc85-bdc62dfb923c), Campaign *S1 - Popin - Abandons - Desktop* (598704ea-3992-4e80-818a-1e84f61e68fe)\nLast: 4@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 73.70 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:35.1281204Z",
+        "Topic": "Account/e4963c4d-3325-4c6a-bc85-bdc62dfb923c/Monitoring/Info",
+        "Title": "MONCEAU FLEURS",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*MONCEAU FLEURS* (e4963c4d-3325-4c6a-bc85-bdc62dfb923c), Campaign *Header bar upsell livraison gratuite* (74140ad6-8292-4b59-9708-e7b0ab883d3b)\nLast: 15@2019-07-01 14:00. Expected: ExpectedValue: 13, MinExpectedValue: 11, MaxExpectedValue: 14, DeviationRatio: 3.84 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:25.7436269Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring/Info",
+        "Title": "FINAROME",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*FINAROME* (deec9b32-c13b-46e0-899b-16024fbebbd3), Campaign *S3 - Finarome - Header - Livraison - Desktop* (ed2a2739-5429-48fd-9a76-5894c5ce325d)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 121.27 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:01.7078345Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring/Info",
+        "Title": "FINAROME",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*FINAROME* (deec9b32-c13b-46e0-899b-16024fbebbd3), Campaign *S7 - Finarome - Header - Livraison - Mobile* (a10466cc-a4f2-4f83-8c1c-f95f83ec1c21)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.00 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:45.5267682Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring/Info",
+        "Title": "FINAROME",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*FINAROME* (deec9b32-c13b-46e0-899b-16024fbebbd3), Campaign *S3 - Finarome - Header - Livraison - Desktop* (ed2a2739-5429-48fd-9a76-5894c5ce325d)\nLast: 5@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.23 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:58.2529876Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring/Info",
+        "Title": "FINAROME",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*FINAROME* (deec9b32-c13b-46e0-899b-16024fbebbd3), Campaign *S14 - Cross-sell mobile* (0e090f6f-3836-4e28-9469-c3d4b980589b)\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 72.34 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:10.8571673Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring/Info",
+        "Title": "FINAROME",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*FINAROME* (deec9b32-c13b-46e0-899b-16024fbebbd3), Campaign *S13 - Cross-sell desktop, 6 produits* (5d47ff50-feb8-444c-a4bb-773169d14900)\nLast: 3@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 91.84 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:45:13.633062Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring",
+        "Title": "Anomaly detected for FINAROME",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account FINAROME.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=deec9b32-c13b-46e0-899b-16024fbebbd3'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *FINAROME*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=deec9b32-c13b-46e0-899b-16024fbebbd3",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:45:10.5956787Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring",
+        "Title": "Anomaly detected for FINAROME",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account FINAROME.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=deec9b32-c13b-46e0-899b-16024fbebbd3'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *FINAROME*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=deec9b32-c13b-46e0-899b-16024fbebbd3",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:11.6365745Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring/Alert",
+        "Title": "FINAROME",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): Low CampaignImpressions for\n*FINAROME* (deec9b32-c13b-46e0-899b-16024fbebbd3), Campaign *S6 - Widget  - SC Form - Responsive* (4f957e62-a60b-438c-bab8-2988da0f5f92).\nLast: 3@2019-07-01 08:00. Expected: ExpectedValue: 43, MinExpectedValue: 37, MaxExpectedValue: 50, DeviationRatio: 1,132.49 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:26.8195955Z",
+        "Topic": "Account/deec9b32-c13b-46e0-899b-16024fbebbd3/Monitoring/Alert",
+        "Title": "FINAROME",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): Low CampaignImpressions for\n*FINAROME* (deec9b32-c13b-46e0-899b-16024fbebbd3), Campaign *S6 - Widget  - SC Form - Responsive* (4f957e62-a60b-438c-bab8-2988da0f5f92).\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 21, MinExpectedValue: 18, MaxExpectedValue: 25, DeviationRatio: 1,727.05 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:07.945535Z",
+        "Topic": "Account/d6ecb044-2be2-43b5-bd03-37d7cae62311/Monitoring/Alert",
+        "Title": "MISAKI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*MISAKI* (d6ecb044-2be2-43b5-bd03-37d7cae62311).\nLast: 0@2019-06-30 00:00. Expected: ExpectedValue: 302,587, MinExpectedValue: 257,199, MaxExpectedValue: 347,975, DeviationRatio: 100.00 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:17:08.5131696Z",
+        "Topic": "Account/cc1ba145-a57a-473d-bcb0-02c684620574/Monitoring/Info",
+        "Title": "APC",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*APC* (cc1ba145-a57a-473d-bcb0-02c684620574), Campaign *S3 - Footer - produit - Réassurance - Mobile (UK)* (f105f713-60da-415f-bc0f-feeb4e647a62)\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 84.30 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:20.8154995Z",
+        "Topic": "Account/cc1ba145-a57a-473d-bcb0-02c684620574/Monitoring/Info",
+        "Title": "APC",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*APC* (cc1ba145-a57a-473d-bcb0-02c684620574), Campaign *S1 - Footer - Page produit - Réassurance - Mobile* (b485ebbb-d8c4-41af-bc95-aa471b0ea5df)\nLast: 11@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 91.93 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:16:56.8305698Z",
+        "Topic": "Account/cc1ba145-a57a-473d-bcb0-02c684620574/Monitoring/Alert",
+        "Title": "APC",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): Low CampaignImpressions for\n*APC* (cc1ba145-a57a-473d-bcb0-02c684620574), Campaign *S2 - Footer - produit - Réassurance - Mobile (DE)* (075bfca8-99ff-4a5b-af2f-e3d9224022c3).\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 17, MinExpectedValue: 14, MaxExpectedValue: 19, DeviationRatio: 378.20 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:45:09.2794814Z",
+        "Topic": "Account/cc1ba145-a57a-473d-bcb0-02c684620574/Monitoring",
+        "Title": "Anomaly detected for APC",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account APC.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=cc1ba145-a57a-473d-bcb0-02c684620574'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *APC*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=cc1ba145-a57a-473d-bcb0-02c684620574",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:09.9899033Z",
+        "Topic": "Account/c82de734-5d96-4cb0-ad70-0b1c8d68c313/Monitoring/Alert",
+        "Title": "HOTEL ELYSEE",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): Low Visits for\n*HOTEL ELYSEE* (c82de734-5d96-4cb0-ad70-0b1c8d68c313).\nLast: 1,052,953@2019-06-30 00:00. Expected: ExpectedValue: 2,134,770, MinExpectedValue: 1,814,554, MaxExpectedValue: 2,454,985, DeviationRatio: 72.33 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:45:12.495104Z",
+        "Topic": "Account/c82de734-5d96-4cb0-ad70-0b1c8d68c313/Monitoring",
+        "Title": "Anomaly detected for HOTEL ELYSEE",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account HOTEL ELYSEE.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=c82de734-5d96-4cb0-ad70-0b1c8d68c313'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *HOTEL ELYSEE*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=c82de734-5d96-4cb0-ad70-0b1c8d68c313",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:45:09.8895461Z",
+        "Topic": "Account/c82de734-5d96-4cb0-ad70-0b1c8d68c313/Monitoring",
+        "Title": "Anomaly detected for HOTEL ELYSEE",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account HOTEL ELYSEE.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=c82de734-5d96-4cb0-ad70-0b1c8d68c313'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *HOTEL ELYSEE*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=c82de734-5d96-4cb0-ad70-0b1c8d68c313",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:42.1408444Z",
+        "Topic": "Account/c93b7107-def0-44b2-8867-97c61e604a71/Monitoring/Info",
+        "Title": "Direct filet",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Direct filet* (c93b7107-def0-44b2-8867-97c61e604a71), Campaign *S4 - Abandons > 150€* (4977d7aa-3e21-4c03-8c63-4965dada320c)\nLast: 3@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 61.68 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:33.1299592Z",
+        "Topic": "Account/c93b7107-def0-44b2-8867-97c61e604a71/Monitoring/Info",
+        "Title": "Direct filet",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Direct filet* (c93b7107-def0-44b2-8867-97c61e604a71), Campaign *S1 - Bons plans* (9efe4c1c-ff4e-4890-85f0-154fc3d6895f)\nLast: 16@2019-07-01 14:00. Expected: ExpectedValue: 12, MinExpectedValue: 10, MaxExpectedValue: 14, DeviationRatio: 14.46 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:50.1352023Z",
+        "Topic": "Account/c93b7107-def0-44b2-8867-97c61e604a71/Monitoring/Info",
+        "Title": "Direct filet",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Direct filet* (c93b7107-def0-44b2-8867-97c61e604a71), Campaign *S3 - Abandons > 100€_* (c9a07c7c-64e1-48cf-83f0-c81f7ec99560)\nLast: 1@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.00 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:01.0249375Z",
+        "Topic": "Account/c93b7107-def0-44b2-8867-97c61e604a71/Monitoring/Info",
+        "Title": "Direct filet",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Direct filet* (c93b7107-def0-44b2-8867-97c61e604a71), Campaign *S4 - Abandons > 150€* (4977d7aa-3e21-4c03-8c63-4965dada320c)\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 57.36 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:17:06.7080962Z",
+        "Topic": "Account/c54d0051-e716-42c9-9f37-1af4dd12a69a/Monitoring/Info",
+        "Title": "Forge boutique",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Forge boutique* (c54d0051-e716-42c9-9f37-1af4dd12a69a), Campaign *S5.Abandon page de destination FP: PC* (e21126b7-aa5d-4891-86c2-a28f8dc7ee64)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.87 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:33.6445722Z",
+        "Topic": "Account/c54d0051-e716-42c9-9f37-1af4dd12a69a/Monitoring/Info",
+        "Title": "Forge boutique",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Forge boutique* (c54d0051-e716-42c9-9f37-1af4dd12a69a), Campaign *S6.Abandon panier: PC* (0e769469-c79a-4626-863d-96e42fdbab28)\nLast: 2@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 86.46 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:03.9072745Z",
+        "Topic": "Account/c4533504-a536-4905-a1ed-a038001aac9a/Monitoring/Alert",
+        "Title": "AXA",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*AXA* (c4533504-a536-4905-a1ed-a038001aac9a).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:54.605474Z",
+        "Topic": "Account/c16f4077-c885-42b2-b8a1-f0507c5d883c/Monitoring/Info",
+        "Title": "Deejo",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Deejo* (c16f4077-c885-42b2-b8a1-f0507c5d883c), Campaign *S.2 Upsell Panier 40-60* (bcc79159-5d3d-49e1-acfe-561b64b461d7)\nLast: 3@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.73 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:53.9022061Z",
+        "Topic": "Account/c16f4077-c885-42b2-b8a1-f0507c5d883c/Monitoring/Info",
+        "Title": "Deejo",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Deejo* (c16f4077-c885-42b2-b8a1-f0507c5d883c), Campaign *Widget Newsletter* (24747c0b-ff0f-40c7-9e53-a0a03200ca27)\nLast: 100@2019-07-01 14:00. Expected: ExpectedValue: 82, MinExpectedValue: 70, MaxExpectedValue: 94, DeviationRatio: 5.83 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:04.923515Z",
+        "Topic": "Account/c16f4077-c885-42b2-b8a1-f0507c5d883c/Monitoring/Info",
+        "Title": "Deejo",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*Deejo* (c16f4077-c885-42b2-b8a1-f0507c5d883c), Campaign *S.1 Upsell Panier 60-90* (fa122cb8-2fef-4146-9361-be128aabc352)\nLast: 11@2019-07-01 14:00. Expected: ExpectedValue: 5, MinExpectedValue: 4, MaxExpectedValue: 5, DeviationRatio: 50.42 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:24.5732188Z",
+        "Topic": "Account/c16f4077-c885-42b2-b8a1-f0507c5d883c/Monitoring/Info",
+        "Title": "Deejo",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Deejo* (c16f4077-c885-42b2-b8a1-f0507c5d883c), Campaign *Popin PC Choix du Couteau* (92757a67-1a8a-4765-b9a4-4a9eb13f413a)\nLast: 4@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 89.86 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:01.2038656Z",
+        "Topic": "Account/bd681f66-a29e-40ef-9345-17a75528543f/Monitoring/Info",
+        "Title": "Oliviers & Co",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High Visits for\n*Oliviers & Co* (bd681f66-a29e-40ef-9345-17a75528543f)\nLast: 7,912,842@2019-06-30 00:00. Expected: ExpectedValue: 4,140,619, MinExpectedValue: 3,519,526, MaxExpectedValue: 4,761,712, DeviationRatio: 39.82 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:06.7549231Z",
+        "Topic": "Account/bbdca3c1-4e6c-41cf-bbde-0598bc10b0e4/Monitoring/Info",
+        "Title": "Snow Rental",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High Visits for\n*Snow Rental* (bbdca3c1-4e6c-41cf-bbde-0598bc10b0e4)\nLast: 11,826@2019-06-30 00:00. Expected: ExpectedValue: -1,083, MinExpectedValue: -1,246, MaxExpectedValue: -921, DeviationRatio: 107.79 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:45:09.7241581Z",
+        "Topic": "Account/ba44e862-8169-48a7-afe6-4bf522c830f9/Monitoring",
+        "Title": "Anomaly detected for Mistermenuiserie",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account Mistermenuiserie.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=ba44e862-8169-48a7-afe6-4bf522c830f9'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *Mistermenuiserie*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=ba44e862-8169-48a7-afe6-4bf522c830f9",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:06.7726787Z",
+        "Topic": "Account/ba14e9e3-bbcd-49d4-8c7d-34e6ede2bbf8/Monitoring/Alert",
+        "Title": "Compte interne (Florian PAPILLON)",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*Compte interne (Florian PAPILLON)* (ba14e9e3-bbcd-49d4-8c7d-34e6ede2bbf8).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:21.3014055Z",
+        "Topic": "Account/ba44e862-8169-48a7-afe6-4bf522c830f9/Monitoring/Alert",
+        "Title": "Mistermenuiserie",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): Low CampaignImpressions for\n*Mistermenuiserie* (ba44e862-8169-48a7-afe6-4bf522c830f9), Campaign *Pop-in Magasins MOBILE* (fe8aba47-8d07-4f64-977c-a69c4cd3c79e).\nLast: 232@2019-07-01 08:00. Expected: ExpectedValue: 403, MinExpectedValue: 342, MaxExpectedValue: 463, DeviationRatio: 47.52 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:38.915862Z",
+        "Topic": "Account/b049e109-1014-4244-b25f-af1f31e6e340/Monitoring/Info",
+        "Title": "Phyderma",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Phyderma* (b049e109-1014-4244-b25f-af1f31e6e340), Campaign *1.2 Abandon de site Visiteur non connu POI027* (57ba4b2b-e777-47a7-9ffd-0436088ab215)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 99.67 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:07.5136388Z",
+        "Topic": "Account/b049e109-1014-4244-b25f-af1f31e6e340/Monitoring/Info",
+        "Title": "Phyderma",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Phyderma* (b049e109-1014-4244-b25f-af1f31e6e340), Campaign *Mobile 1.1 Engagement Visiteur non connu NL - New* (079078ce-e03c-485e-8d88-be78b993ba2c)\nLast: 9@2019-07-01 14:00. Expected: ExpectedValue: 5, MinExpectedValue: 4, MaxExpectedValue: 6, DeviationRatio: 37.76 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:35.5106394Z",
+        "Topic": "Account/b049e109-1014-4244-b25f-af1f31e6e340/Monitoring/Info",
+        "Title": "Phyderma",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Phyderma* (b049e109-1014-4244-b25f-af1f31e6e340), Campaign *2.3 Abandon de panier <35€ Visiteur connu* (72deedb9-7bd4-4ab9-80cf-e445e46c4bf8)\nLast: 2@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.96 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:05.4765031Z",
+        "Topic": "Account/b049e109-1014-4244-b25f-af1f31e6e340/Monitoring/Info",
+        "Title": "Phyderma",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Phyderma* (b049e109-1014-4244-b25f-af1f31e6e340), Campaign *1.2 Abandon de site Visiteur non connu POI027* (57ba4b2b-e777-47a7-9ffd-0436088ab215)\nLast: 2@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 42.50 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:05.9553296Z",
+        "Topic": "Account/b049e109-1014-4244-b25f-af1f31e6e340/Monitoring/Alert",
+        "Title": "Phyderma",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*Phyderma* (b049e109-1014-4244-b25f-af1f31e6e340).\nLast: 1,186,843@2019-06-30 00:00. Expected: ExpectedValue: 1,396,846, MinExpectedValue: 1,187,319, MaxExpectedValue: 1,606,373, DeviationRatio: 0.04 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:03.8985012Z",
+        "Topic": "Account/af83482b-94bd-4d49-af57-126bd734c34d/Monitoring/Info",
+        "Title": "Label Habitation",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High Visits for\n*Label Habitation* (af83482b-94bd-4d49-af57-126bd734c34d)\nLast: 11,418,358@2019-06-30 00:00. Expected: ExpectedValue: 7,066,602, MinExpectedValue: 6,006,612, MaxExpectedValue: 8,126,593, DeviationRatio: 28.83 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:18.098009Z",
+        "Topic": "Account/af83482b-94bd-4d49-af57-126bd734c34d/Monitoring/Info",
+        "Title": "Label Habitation",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Label Habitation* (af83482b-94bd-4d49-af57-126bd734c34d), Campaign *Abandon de site ss pdt dans panier - A/B Testing* (dd7ec923-5806-47fa-bd5f-754f413afd25)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 21.94 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:33.4471339Z",
+        "Topic": "Account/af83482b-94bd-4d49-af57-126bd734c34d/Monitoring/Info",
+        "Title": "Label Habitation",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Label Habitation* (af83482b-94bd-4d49-af57-126bd734c34d), Campaign *Abandon d'ajout de produit < 833€ Promo* (80aa9c4a-c238-4fd2-a3fb-0c62ed079fa5)\nLast: 4@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.01 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:43.53328Z",
+        "Topic": "Account/af83482b-94bd-4d49-af57-126bd734c34d/Monitoring/Info",
+        "Title": "Label Habitation",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Label Habitation* (af83482b-94bd-4d49-af57-126bd734c34d), Campaign *Abandon de panier <167€ HT - A/B testing CART* (149981f6-79f1-4ef6-b966-205f12853ec1)\nLast: 4@2019-07-01 08:00. Expected: ExpectedValue: 2, MinExpectedValue: 2, MaxExpectedValue: 2, DeviationRatio: 47.62 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:31.1318553Z",
+        "Topic": "Account/af83482b-94bd-4d49-af57-126bd734c34d/Monitoring/Info",
+        "Title": "Label Habitation",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Label Habitation* (af83482b-94bd-4d49-af57-126bd734c34d), Campaign *Abandon de site ss pdt dans panier - A/B Testing* (dd7ec923-5806-47fa-bd5f-754f413afd25)\nLast: 2@2019-07-01 14:00. Expected: ExpectedValue: 2, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 5.63 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:50.4599024Z",
+        "Topic": "Account/af83482b-94bd-4d49-af57-126bd734c34d/Monitoring/Info",
+        "Title": "Label Habitation",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Label Habitation* (af83482b-94bd-4d49-af57-126bd734c34d), Campaign *Abandon d'ajout de produit < 833€ Promo* (80aa9c4a-c238-4fd2-a3fb-0c62ed079fa5)\nLast: 4@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.01 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:03.5673921Z",
+        "Topic": "Account/af83482b-94bd-4d49-af57-126bd734c34d/Monitoring/Info",
+        "Title": "Label Habitation",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Label Habitation* (af83482b-94bd-4d49-af57-126bd734c34d), Campaign *Abandon de panier <167€ HT - A/B testing CART* (149981f6-79f1-4ef6-b966-205f12853ec1)\nLast: 2@2019-07-01 13:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 42.34 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:04.1417226Z",
+        "Topic": "Account/a95406c2-4f3c-4040-95d2-5687d1ab841a/Monitoring/Alert",
+        "Title": "Compte interne (Regie HUANG)",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*Compte interne (Regie HUANG)* (a95406c2-4f3c-4040-95d2-5687d1ab841a).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:52.6600385Z",
+        "Topic": "Account/a70da313-f791-4512-b816-a89204be1d09/Monitoring/Info",
+        "Title": "Hotel Chiberta Biarritz",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Hotel Chiberta Biarritz* (a70da313-f791-4512-b816-a89204be1d09), Campaign *Pop in reassurance Tablette +Mobile* (3bc931fa-0922-4cf9-9b76-c9d73fc51c18)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 102.27 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:11.4796204Z",
+        "Topic": "Account/a70da313-f791-4512-b816-a89204be1d09/Monitoring/Info",
+        "Title": "Hotel Chiberta Biarritz",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Hotel Chiberta Biarritz* (a70da313-f791-4512-b816-a89204be1d09), Campaign *Pop in reassurance Tablette +Mobile* (3bc931fa-0922-4cf9-9b76-c9d73fc51c18)\nLast: 3@2019-07-01 13:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 57.64 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:04.7959248Z",
+        "Topic": "Account/a7e8c74c-1d5f-4ac8-b463-917c069396ad/Monitoring/Alert",
+        "Title": "Laguiole",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*Laguiole* (a7e8c74c-1d5f-4ac8-b463-917c069396ad).\nLast: 796,194@2019-06-30 00:00. Expected: ExpectedValue: 1,134,977, MinExpectedValue: 964,730, MaxExpectedValue: 1,305,223, DeviationRatio: 21.17 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:06.1039137Z",
+        "Topic": "Account/a55c1a76-b56f-4c97-a594-2ea67d34db5c/Monitoring/Info",
+        "Title": "Vital Beauty",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High Visits for\n*Vital Beauty* (a55c1a76-b56f-4c97-a594-2ea67d34db5c)\nLast: 2,333,456@2019-06-30 00:00. Expected: ExpectedValue: 1,146,611, MinExpectedValue: 974,620, MaxExpectedValue: 1,318,603, DeviationRatio: 43.49 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:03.6712261Z",
+        "Topic": "Account/a1be780e-0d90-425b-a542-e65788ea41f2/Monitoring/Alert",
+        "Title": "Vital Nature",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*Vital Nature* (a1be780e-0d90-425b-a542-e65788ea41f2).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:17:06.1864459Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring/Info",
+        "Title": "LULLI SUR LA TOILE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*LULLI SUR LA TOILE* (a141c41e-80f8-42bd-a676-1001202c338e), Campaign *Relance panier visiteurs NON-connectés* (b981c314-9d9a-4747-bf4c-f5c520c6944d)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 34.57 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:17:13.5659829Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring/Info",
+        "Title": "LULLI SUR LA TOILE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*LULLI SUR LA TOILE* (a141c41e-80f8-42bd-a676-1001202c338e), Campaign *Abandon de site avec un panier PC* (b94e6f36-a3e2-4061-9a99-dbc613fd4d81)\nLast: 3@2019-07-01 08:00. Expected: ExpectedValue: 3, MinExpectedValue: 2, MaxExpectedValue: 3, DeviationRatio: 3.72 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:17:19.8127902Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring/Info",
+        "Title": "LULLI SUR LA TOILE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*LULLI SUR LA TOILE* (a141c41e-80f8-42bd-a676-1001202c338e), Campaign *Popin PC Drive to Store -Lyon* (54802f56-0d3b-4b56-8d9b-08a39088e9ec)\nLast: 4@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 70.52 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:45.9082692Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring/Info",
+        "Title": "LULLI SUR LA TOILE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*LULLI SUR LA TOILE* (a141c41e-80f8-42bd-a676-1001202c338e), Campaign *Abandon de panier PC* (d0b8fdeb-ca9f-480d-a953-1b2c14ca387d)\nLast: 6@2019-07-01 13:00. Expected: ExpectedValue: 3, MinExpectedValue: 2, MaxExpectedValue: 3, DeviationRatio: 47.66 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:52.009179Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring/Alert",
+        "Title": "LULLI SUR LA TOILE",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): Low CampaignImpressions for\n*LULLI SUR LA TOILE* (a141c41e-80f8-42bd-a676-1001202c338e), Campaign *Abandon de panier Mobile* (78fffb0b-dd23-4e5a-b414-8c51023bfee5).\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 5, MinExpectedValue: 4, MaxExpectedValue: 6, DeviationRatio: 314.53 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:27.0319129Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring/Alert",
+        "Title": "LULLI SUR LA TOILE",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): Low CampaignImpressions for\n*LULLI SUR LA TOILE* (a141c41e-80f8-42bd-a676-1001202c338e), Campaign *Relance panier visiteurs NON-connectés* (b981c314-9d9a-4747-bf4c-f5c520c6944d).\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 5, MinExpectedValue: 4, MaxExpectedValue: 6, DeviationRatio: 316.61 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:45:15.2299578Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring",
+        "Title": "Anomaly detected for LULLI SUR LA TOILE",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account LULLI SUR LA TOILE.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=a141c41e-80f8-42bd-a676-1001202c338e'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *LULLI SUR LA TOILE*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=a141c41e-80f8-42bd-a676-1001202c338e",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:45:11.9661984Z",
+        "Topic": "Account/a141c41e-80f8-42bd-a676-1001202c338e/Monitoring",
+        "Title": "Anomaly detected for LULLI SUR LA TOILE",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account LULLI SUR LA TOILE.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=a141c41e-80f8-42bd-a676-1001202c338e'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *LULLI SUR LA TOILE*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=a141c41e-80f8-42bd-a676-1001202c338e",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:07.2677752Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Info",
+        "Title": "GIFI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Abandon de panier - PC* (fed627e1-ebc4-4e38-b14b-eda1344179c2)\nLast: 118@2019-07-01 08:00. Expected: ExpectedValue: 83, MinExpectedValue: 71, MaxExpectedValue: 96, DeviationRatio: 18.83 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:17:04.1981576Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Info",
+        "Title": "GIFI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Abandon de site avec un panier constitué - PC* (1ee7bedb-8d35-44ab-8f80-d0b5feb65f35)\nLast: 163@2019-07-01 08:00. Expected: ExpectedValue: 108, MinExpectedValue: 92, MaxExpectedValue: 125, DeviationRatio: 23.50 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:33.5961743Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Info",
+        "Title": "GIFI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Upsell Header bar Livraison gratuite au magasin* (6e798682-cd5c-4421-90cd-84dcfa5f9dbe)\nLast: 1@2019-07-01 09:00. Expected: ExpectedValue: 1, MinExpectedValue: 0, MaxExpectedValue: 1, DeviationRatio: 39.57 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:24.0200895Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Alert",
+        "Title": "GIFI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Abandon de site avec panier constitué - Mob+Tab* (92d3457d-12b9-44e0-8965-3982cfd30c34).\nLast: 68@2019-07-01 08:00. Expected: ExpectedValue: 90, MinExpectedValue: 76, MaxExpectedValue: 103, DeviationRatio: 12.46 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:38.9153548Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Alert",
+        "Title": "GIFI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Mobile - Double Abandonniste 10€ offert* (a139a201-4525-4186-89f7-6b2290d7edcd).\nLast: 6@2019-07-01 08:00. Expected: ExpectedValue: 11, MinExpectedValue: 10, MaxExpectedValue: 13, DeviationRatio: 61.12 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:48.6458948Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Alert",
+        "Title": "GIFI",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): Low CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Mobile - Double Abandonniste 5€ offert* (f169b74e-5b43-4909-a242-8421d12968b2).\nLast: 14@2019-07-01 08:00. Expected: ExpectedValue: 23, MinExpectedValue: 20, MaxExpectedValue: 27, DeviationRatio: 40.24 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:47.4890724Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Alert",
+        "Title": "GIFI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Abandon de site avec panier constitué - Mob+Tab* (92d3457d-12b9-44e0-8965-3982cfd30c34).\nLast: 76@2019-07-01 14:00. Expected: ExpectedValue: 99, MinExpectedValue: 84, MaxExpectedValue: 113, DeviationRatio: 10.29 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:59.8014511Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Alert",
+        "Title": "GIFI",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): Low CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Mobile - Double Abandonniste 10€ offert* (a139a201-4525-4186-89f7-6b2290d7edcd).\nLast: 15@2019-07-01 14:00. Expected: ExpectedValue: 22, MinExpectedValue: 19, MaxExpectedValue: 26, DeviationRatio: 26.39 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:10.3296696Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring/Alert",
+        "Title": "GIFI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*GIFI* (99ca2793-425f-4c6f-bff4-b8cdfd70ab2b), Campaign *Mobile - Double Abandonniste 5€ offert* (f169b74e-5b43-4909-a242-8421d12968b2).\nLast: 24@2019-07-01 14:00. Expected: ExpectedValue: 32, MinExpectedValue: 27, MaxExpectedValue: 37, DeviationRatio: 14.53 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:45:17.9349698Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring",
+        "Title": "Anomaly detected for GIFI",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account GIFI.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=99ca2793-425f-4c6f-bff4-b8cdfd70ab2b'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *GIFI*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=99ca2793-425f-4c6f-bff4-b8cdfd70ab2b",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:45:14.1309617Z",
+        "Topic": "Account/99ca2793-425f-4c6f-bff4-b8cdfd70ab2b/Monitoring",
+        "Title": "Anomaly detected for GIFI",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account GIFI.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=99ca2793-425f-4c6f-bff4-b8cdfd70ab2b'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *GIFI*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=99ca2793-425f-4c6f-bff4-b8cdfd70ab2b",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:10.8233962Z",
+        "Topic": "Account/95e7c953-b2b9-4b38-a917-18fe9c52bce9/Monitoring/Info",
+        "Title": "Carrefour Voyages",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High Visits for\n*Carrefour Voyages* (95e7c953-b2b9-4b38-a917-18fe9c52bce9)\nLast: 465,258,569@2019-06-30 00:00. Expected: ExpectedValue: 338,178,229, MinExpectedValue: 287,451,495, MaxExpectedValue: 388,904,964, DeviationRatio: 16.41 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:11.6459476Z",
+        "Topic": "Account/95e7c953-b2b9-4b38-a917-18fe9c52bce9/Monitoring/Info",
+        "Title": "Carrefour Voyages",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*Carrefour Voyages* (95e7c953-b2b9-4b38-a917-18fe9c52bce9), Campaign *S2 Abandon de réservation page paiement* (b5aef141-cd00-4981-b99f-42c9e0ae53f0)\nLast: 11@2019-07-01 08:00. Expected: ExpectedValue: 3, MinExpectedValue: 3, MaxExpectedValue: 4, DeviationRatio: 66.00 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:16:35.1296228Z",
+        "Topic": "Account/951dd804-d0e6-40d2-8b82-c235a1c52ce2/Monitoring/Info",
+        "Title": "Bioenergies",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Bioenergies* (951dd804-d0e6-40d2-8b82-c235a1c52ce2), Campaign *1.2 Abandon de site - visiteur inconnu A/B test* (a7a0a0ab-34e6-4181-9efa-bb1b34196bcf)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 97.55 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:17:06.5129435Z",
+        "Topic": "Account/936d73eb-5030-4832-9f63-2fc16ff85d47/Monitoring/Info",
+        "Title": "allomatelas",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*allomatelas* (936d73eb-5030-4832-9f63-2fc16ff85d47), Campaign *S6 - BIP FP Matelas/Sommiers & Ensemble -PC* (5b29fef9-fd2f-4f55-8ddf-1c789c599fe9)\nLast: 2@2019-07-01 10:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 25.70 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:17.6234204Z",
+        "Topic": "Account/936d73eb-5030-4832-9f63-2fc16ff85d47/Monitoring/Info",
+        "Title": "allomatelas",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*allomatelas* (936d73eb-5030-4832-9f63-2fc16ff85d47), Campaign *S5.Abandon dans et hors tunnel <600€ : PC* (21d4335a-0661-4b66-a499-007e6a5229de)\nLast: 1@2019-07-01 11:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 93.89 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:16:47.48833Z",
+        "Topic": "Account/8f8d3f08-630d-445f-90d6-947022d00007/Monitoring/Info",
+        "Title": "CENPAC",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CENPAC* (8f8d3f08-630d-445f-90d6-947022d00007), Campaign *S2 - Popin - Abandons PC - 100-299€* (ca5e743e-4107-4e6b-9104-a768308ade5e)\nLast: 2@2019-07-01 13:00. Expected: ExpectedValue: 1, MinExpectedValue: 0, MaxExpectedValue: 1, DeviationRatio: 71.02 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:06.7624834Z",
+        "Topic": "Account/86ceec18-6866-4a06-8e6f-62e01173b027/Monitoring/Info",
+        "Title": "HOTEL BIARRITZ OCEAN",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High Visits for\n*HOTEL BIARRITZ OCEAN* (86ceec18-6866-4a06-8e6f-62e01173b027)\nLast: 138,251@2019-06-30 00:00. Expected: ExpectedValue: 79,499, MinExpectedValue: 67,574, MaxExpectedValue: 91,423, DeviationRatio: 33.87 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:03.9007096Z",
+        "Topic": "Account/7a3ede13-6c1c-4e23-a84a-2f72bb67a3e7/Monitoring/Info",
+        "Title": "Hotel Thalasso Resort Concarneau",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High Visits for\n*Hotel Thalasso Resort Concarneau* (7a3ede13-6c1c-4e23-a84a-2f72bb67a3e7)\nLast: 3,890,994@2019-06-30 00:00. Expected: ExpectedValue: 3,063,469, MinExpectedValue: 2,603,949, MaxExpectedValue: 3,522,990, DeviationRatio: 9.46 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:07.5443106Z",
+        "Topic": "Account/7a3ede13-6c1c-4e23-a84a-2f72bb67a3e7/Monitoring/Info",
+        "Title": "Hotel Thalasso Resort Concarneau",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Hotel Thalasso Resort Concarneau* (7a3ede13-6c1c-4e23-a84a-2f72bb67a3e7), Campaign *Popin Bons Plans Responsive FR* (c10837cd-036e-452a-924a-66a2121bb291)\nLast: 2@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 19.88 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:04.1617736Z",
+        "Topic": "Account/7b6cc9c1-776d-4475-8286-752041eef89c/Monitoring/Alert",
+        "Title": "TRAVELCLICK",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*TRAVELCLICK* (7b6cc9c1-776d-4475-8286-752041eef89c).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:17:19.833406Z",
+        "Topic": "Account/798aecbc-4551-40e4-b50b-c392b8fbb616/Monitoring/Info",
+        "Title": "Mellow Yellow",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Mellow Yellow* (798aecbc-4551-40e4-b50b-c392b8fbb616), Campaign *B.2 Bannière engagée Ajout au panier* (1695159d-6f86-4b55-b6ab-a9d0900c30d0)\nLast: 3@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 44.03 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:32.0154789Z",
+        "Topic": "Account/798aecbc-4551-40e4-b50b-c392b8fbb616/Monitoring/Info",
+        "Title": "Mellow Yellow",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Mellow Yellow* (798aecbc-4551-40e4-b50b-c392b8fbb616), Campaign *A6.Visiteur engagé (guide des tailles shoes) : PC* (70ec906d-9d1f-4635-8e60-ee792fe1dde5)\nLast: 9@2019-07-01 14:00. Expected: ExpectedValue: 7, MinExpectedValue: 6, MaxExpectedValue: 8, DeviationRatio: 15.76 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:54.6142552Z",
+        "Topic": "Account/798aecbc-4551-40e4-b50b-c392b8fbb616/Monitoring/Info",
+        "Title": "Mellow Yellow",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Mellow Yellow* (798aecbc-4551-40e4-b50b-c392b8fbb616), Campaign *A1.Abandon de panier - PC* (a087328d-987c-4e38-a994-b2d5bfc4c868)\nLast: 2@2019-07-01 14:00. Expected: ExpectedValue: -1, MinExpectedValue: -1, MaxExpectedValue: 0, DeviationRatio: 124.56 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:16:53.8930153Z",
+        "Topic": "Account/798aecbc-4551-40e4-b50b-c392b8fbb616/Monitoring/Alert",
+        "Title": "Mellow Yellow",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): Low CampaignImpressions for\n*Mellow Yellow* (798aecbc-4551-40e4-b50b-c392b8fbb616), Campaign *B.1bis Bannière engagée Stock limité* (26d3bfa7-802e-4ee9-82a8-c01b0097aac8).\nLast: 13@2019-07-01 14:00. Expected: ExpectedValue: 29, MinExpectedValue: 25, MaxExpectedValue: 33, DeviationRatio: 89.90 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:24.5738935Z",
+        "Topic": "Account/798aecbc-4551-40e4-b50b-c392b8fbb616/Monitoring/Alert",
+        "Title": "Mellow Yellow",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*Mellow Yellow* (798aecbc-4551-40e4-b50b-c392b8fbb616), Campaign *A8.Abandon de site avec un panier - Mobile* (f0526021-f479-4299-bfb6-acdc4bec0807).\nLast: 1@2019-07-01 13:00. Expected: ExpectedValue: 2, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 47.86 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:51.9026825Z",
+        "Topic": "Account/798aecbc-4551-40e4-b50b-c392b8fbb616/Monitoring/Alert",
+        "Title": "Mellow Yellow",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*Mellow Yellow* (798aecbc-4551-40e4-b50b-c392b8fbb616), Campaign *Header bar Upsell panier <80€ :Mobile* (36c58266-e8e1-4a8c-a332-7b369c446b3a).\nLast: 4@2019-07-01 14:00. Expected: ExpectedValue: 6, MinExpectedValue: 5, MaxExpectedValue: 7, DeviationRatio: 20.33 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:17:30.8642891Z",
+        "Topic": "Account/78f4402e-fd6c-4df7-8824-2443dd2d01f5/Monitoring/Info",
+        "Title": "Cote Sushi",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Cote Sushi* (78f4402e-fd6c-4df7-8824-2443dd2d01f5), Campaign *Abandon de panier - PC (>40€) BEYCOD* (754c18ea-ceed-407c-ada4-fd4cf1dd5805)\nLast: 1@2019-07-01 11:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 51.71 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:37.3547961Z",
+        "Topic": "Account/78f4402e-fd6c-4df7-8824-2443dd2d01f5/Monitoring/Info",
+        "Title": "Cote Sushi",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Cote Sushi* (78f4402e-fd6c-4df7-8824-2443dd2d01f5), Campaign *Abandon de panier -Mobile (>40€) MAKIB40* (6a2ca010-8094-46ba-91df-3a5d50483bb7)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 97.76 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:45:15.0555784Z",
+        "Topic": "Account/798aecbc-4551-40e4-b50b-c392b8fbb616/Monitoring",
+        "Title": "Anomaly detected for Mellow Yellow",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "An anomaly has been detected on account Mellow Yellow.<br>Please check <a href='https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=798aecbc-4551-40e4-b50b-c392b8fbb616'>account dashboard</a>",
+            "ContentType": 1
+          },
+          {
+            "Content": "An anomaly has been detected on account *Mellow Yellow*.\nPlease check account dashboard: https://beyableprodbackoffice.z6.web.core.windows.net/AccountDashboard.html?accountId=798aecbc-4551-40e4-b50b-c392b8fbb616",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:16:03.4780186Z",
+        "Topic": "Account/778b6552-78d7-4bd0-abdb-2eee5f565e7b/Monitoring/Info",
+        "Title": "DEEJO - DE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*DEEJO - DE* (778b6552-78d7-4bd0-abdb-2eee5f565e7b), Campaign *S.3 DE - Commencer la perso MOBILE* (1ca8dd63-b30d-4c1c-ace7-ef94ae509579)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 123.93 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:27.7152742Z",
+        "Topic": "Account/778b6552-78d7-4bd0-abdb-2eee5f565e7b/Monitoring/Info",
+        "Title": "DEEJO - DE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*DEEJO - DE* (778b6552-78d7-4bd0-abdb-2eee5f565e7b), Campaign *Widget Newsletter .DE* (f9a64897-71d7-48da-bcb6-8af9f6715f7a)\nLast: 61@2019-07-01 14:00. Expected: ExpectedValue: 47, MinExpectedValue: 40, MaxExpectedValue: 55, DeviationRatio: 10.62 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:54.7121702Z",
+        "Topic": "Account/767c4325-8174-42f4-8ae0-4bea6d2cdd28/Monitoring/Info",
+        "Title": "COOLSAILING",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*COOLSAILING* (767c4325-8174-42f4-8ae0-4bea6d2cdd28), Campaign *(FR) Abandons Pages produits bateau - PC* (48db3ac6-efdb-4079-ae57-fdedbbbd2f86)\nLast: 2@2019-07-01 07:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 35.38 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:03.3219074Z",
+        "Topic": "Account/767c4325-8174-42f4-8ae0-4bea6d2cdd28/Monitoring/Info",
+        "Title": "COOLSAILING",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*COOLSAILING* (767c4325-8174-42f4-8ae0-4bea6d2cdd28), Campaign *(FR) Abandons Pages produits bateau - PC* (48db3ac6-efdb-4079-ae57-fdedbbbd2f86)\nLast: 1@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 96.69 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:50.1794398Z",
+        "Topic": "Account/6c77f64c-80b7-4369-a54b-2059b1ca33df/Monitoring/Info",
+        "Title": "Telecommande Online",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Telecommande Online* (6c77f64c-80b7-4369-a54b-2059b1ca33df), Campaign *Abandon de site A/B Testing* (45d7cac9-92ea-43bc-b675-60c34aa4403f)\nLast: 8@2019-07-01 08:00. Expected: ExpectedValue: 2, MinExpectedValue: 2, MaxExpectedValue: 2, DeviationRatio: 69.50 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:24.0192815Z",
+        "Topic": "Account/6c77f64c-80b7-4369-a54b-2059b1ca33df/Monitoring/Info",
+        "Title": "Telecommande Online",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Telecommande Online* (6c77f64c-80b7-4369-a54b-2059b1ca33df), Campaign *Abandon d'ajout produit- A/B Testing* (f7e87972-507e-4bd2-b233-91f534c79a84)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 81.39 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:31.0646429Z",
+        "Topic": "Account/6c77f64c-80b7-4369-a54b-2059b1ca33df/Monitoring/Info",
+        "Title": "Telecommande Online",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Telecommande Online* (6c77f64c-80b7-4369-a54b-2059b1ca33df), Campaign *Abandon de panier - A/B Testing CART* (7e83b63e-cc22-43e4-82a5-0f7bd44214ab)\nLast: 3@2019-07-01 13:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 61.21 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:01.6259852Z",
+        "Topic": "Account/6a041915-3f5a-43ac-9879-3b245ec5e2e5/Monitoring/Alert",
+        "Title": "Océans Evasion",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*Océans Evasion* (6a041915-3f5a-43ac-9879-3b245ec5e2e5).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:04.9109163Z",
+        "Topic": "Account/5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505/Monitoring/Info",
+        "Title": "BERGERE DE FRANCE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High Visits for\n*BERGERE DE FRANCE* (5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505)\nLast: 120,501,962@2019-06-30 00:00. Expected: ExpectedValue: 79,705,897, MinExpectedValue: 67,750,012, MaxExpectedValue: 91,661,782, DeviationRatio: 23.93 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:50.7782806Z",
+        "Topic": "Account/5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505/Monitoring/Info",
+        "Title": "BERGERE DE FRANCE",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High CampaignImpressions for\n*BERGERE DE FRANCE* (5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505), Campaign *S12.Engagé les curieux* (62791a1f-f56a-4145-af2e-0c3238e1ce61)\nLast: 12@2019-07-01 08:00. Expected: ExpectedValue: 7, MinExpectedValue: 6, MaxExpectedValue: 8, DeviationRatio: 31.66 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:25.7297536Z",
+        "Topic": "Account/5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505/Monitoring/Info",
+        "Title": "BERGERE DE FRANCE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*BERGERE DE FRANCE* (5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505), Campaign *s17.Visiteur engagé fils (soldes 2019)* (66e94471-024e-47ea-8c80-f5c61b85ea45)\nLast: 2@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 98.84 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:43.5313977Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S2 HB - Hésitant Fiche produit HEADER BAR* (4577c19a-4f7e-4d9a-be4c-ed5eeaabdc2c)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 2, MinExpectedValue: 1, MaxExpectedValue: 2, DeviationRatio: 8.41 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:52.2985135Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S1 - Article magazine PC* (8869b409-4331-494b-adbb-dbb64f4802f3)\nLast: 34@2019-07-01 08:00. Expected: ExpectedValue: 15, MinExpectedValue: 13, MaxExpectedValue: 17, DeviationRatio: 50.05 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:17:00.5002055Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S2m HB - Hésitant Fiche produit HEADER BAR* (f4efbf82-a90d-41e2-a7cc-d4d2ab477ec3)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 102.07 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:17:06.5994777Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S3 mariage - Echantillon page ex texte* (0dd5552d-6d37-49fb-88cf-d9efd0ab13f0)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 34.99 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:55.5654287Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S2 - Hésitant fiche produit PC* (3decba1f-13d0-46a9-b517-0519796b34e9)\nLast: 13@2019-07-01 14:00. Expected: ExpectedValue: 5, MinExpectedValue: 4, MaxExpectedValue: 6, DeviationRatio: 57.31 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:17.1859649Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S1 - Article magazine PC* (8869b409-4331-494b-adbb-dbb64f4802f3)\nLast: 44@2019-07-01 14:00. Expected: ExpectedValue: 36, MinExpectedValue: 30, MaxExpectedValue: 41, DeviationRatio: 7.04 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:25.7291277Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S2m HB - Hésitant Fiche produit HEADER BAR* (f4efbf82-a90d-41e2-a7cc-d4d2ab477ec3)\nLast: 1@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 95.77 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:32.987227Z",
+        "Topic": "Account/60d0247c-0c03-468f-823c-54a19fb84da6/Monitoring/Info",
+        "Title": "CARTELAND",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*CARTELAND* (60d0247c-0c03-468f-823c-54a19fb84da6), Campaign *S3 mariage - Echantillon page ex texte* (0dd5552d-6d37-49fb-88cf-d9efd0ab13f0)\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 61.25 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:14.2933804Z",
+        "Topic": "Account/5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505/Monitoring/Alert",
+        "Title": "BERGERE DE FRANCE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*BERGERE DE FRANCE* (5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505), Campaign *S2.Popin Collecte d'emails* (0ad774f7-eb9a-4f6d-8a58-0d42263098f5).\nLast: 3@2019-07-01 08:00. Expected: ExpectedValue: 9, MinExpectedValue: 8, MaxExpectedValue: 11, DeviationRatio: 165.93 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:56.8311431Z",
+        "Topic": "Account/5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505/Monitoring/Alert",
+        "Title": "BERGERE DE FRANCE",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*BERGERE DE FRANCE* (5c4cfe50-0d91-4af3-bf15-1e1f1c2ae505), Campaign *S1.Abandon de la page panier < 60€ : PC* (241a7ad3-3803-485b-ab46-b7bc81384134).\nLast: 7@2019-07-01 14:00. Expected: ExpectedValue: 11, MinExpectedValue: 10, MaxExpectedValue: 13, DeviationRatio: 39.21 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:19.7598881Z",
+        "Topic": "Account/556c1d45-932d-41b8-8120-4b884fd91b9c/Monitoring/Info",
+        "Title": "PLANET SUSHI",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High CampaignImpressions for\n*PLANET SUSHI* (556c1d45-932d-41b8-8120-4b884fd91b9c), Campaign *O12.OP SummerBowl: PC & Mobile* (db6d5d9c-1e11-4c81-ae23-745f38a0687f)\nLast: 138@2019-07-01 08:00. Expected: ExpectedValue: 73, MinExpectedValue: 62, MaxExpectedValue: 84, DeviationRatio: 38.99 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:34.5151477Z",
+        "Topic": "Account/556c1d45-932d-41b8-8120-4b884fd91b9c/Monitoring/Info",
+        "Title": "PLANET SUSHI",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High CampaignImpressions for\n*PLANET SUSHI* (556c1d45-932d-41b8-8120-4b884fd91b9c), Campaign *S3bis.Programme fidélité: Mobile* (7b38cb78-2c85-4978-a6ae-c6262f38fca2)\nLast: 33@2019-07-01 08:00. Expected: ExpectedValue: 19, MinExpectedValue: 16, MaxExpectedValue: 22, DeviationRatio: 32.83 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:16:42.8165534Z",
+        "Topic": "Account/556c1d45-932d-41b8-8120-4b884fd91b9c/Monitoring/Alert",
+        "Title": "PLANET SUSHI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*PLANET SUSHI* (556c1d45-932d-41b8-8120-4b884fd91b9c), Campaign *S3bis.Programme fidélité: Mobile* (7b38cb78-2c85-4978-a6ae-c6262f38fca2).\nLast: 36@2019-07-01 14:00. Expected: ExpectedValue: 49, MinExpectedValue: 42, MaxExpectedValue: 57, DeviationRatio: 16.39 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:06.7070004Z",
+        "Topic": "Account/556c1d45-932d-41b8-8120-4b884fd91b9c/Monitoring/Alert",
+        "Title": "PLANET SUSHI",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*PLANET SUSHI* (556c1d45-932d-41b8-8120-4b884fd91b9c), Campaign *S3.Programme fidélité: PC* (6717888f-cc65-40e9-9d99-37d5be022dac).\nLast: 2@2019-07-01 14:00. Expected: ExpectedValue: 8, MinExpectedValue: 7, MaxExpectedValue: 9, DeviationRatio: 236.91 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:01.6326564Z",
+        "Topic": "Account/535f1dca-2913-436d-9095-09753d952e44/Monitoring/Alert",
+        "Title": "BESTFORM",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*BESTFORM* (535f1dca-2913-436d-9095-09753d952e44).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T15:17:04.9312599Z",
+        "Topic": "Account/501c86ae-6aa5-47f2-8280-efcebf8e13d2/Monitoring/Alert",
+        "Title": "DEEJO - COM",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low CampaignImpressions for\n*DEEJO - COM* (501c86ae-6aa5-47f2-8280-efcebf8e13d2), Campaign *S.1 EN - Upsell Panier 60-90* (597da305-9dff-4b92-841b-91434c2e5548).\nLast: 1@2019-07-01 12:00. Expected: ExpectedValue: 2, MinExpectedValue: 2, MaxExpectedValue: 2, DeviationRatio: 66.78 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:56.1127424Z",
+        "Topic": "Account/5017fffe-ede1-44f5-968f-dcc6f3fba16e/Monitoring/Info",
+        "Title": "Coffre Fort Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Coffre Fort Plus* (5017fffe-ede1-44f5-968f-dcc6f3fba16e), Campaign *Abandon de panier > 167€HT -A/B Testing Cart* (14ee016b-1fdb-4b8a-b9e3-15178eadfdb9)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 86.31 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:16.9459263Z",
+        "Topic": "Account/5017fffe-ede1-44f5-968f-dcc6f3fba16e/Monitoring/Info",
+        "Title": "Coffre Fort Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Coffre Fort Plus* (5017fffe-ede1-44f5-968f-dcc6f3fba16e), Campaign *Abandon d'ajout pdt > 167€HT -A/B Testing* (dc650ba9-89ef-4e18-9659-79cba612e3e5)\nLast: 1@2019-07-01 07:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 96.89 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:08.699955Z",
+        "Topic": "Account/5017fffe-ede1-44f5-968f-dcc6f3fba16e/Monitoring/Info",
+        "Title": "Coffre Fort Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Coffre Fort Plus* (5017fffe-ede1-44f5-968f-dcc6f3fba16e), Campaign *Abandon de panier > 167€HT -A/B Testing Cart* (14ee016b-1fdb-4b8a-b9e3-15178eadfdb9)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 98.61 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:36.6924852Z",
+        "Topic": "Account/5017fffe-ede1-44f5-968f-dcc6f3fba16e/Monitoring/Info",
+        "Title": "Coffre Fort Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Coffre Fort Plus* (5017fffe-ede1-44f5-968f-dcc6f3fba16e), Campaign *Abandon d'ajout pdt > 167€HT -A/B Testing* (dc650ba9-89ef-4e18-9659-79cba612e3e5)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 96.37 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:53.2171318Z",
+        "Topic": "Account/5017fffe-ede1-44f5-968f-dcc6f3fba16e/Monitoring/Info",
+        "Title": "Coffre Fort Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Coffre Fort Plus* (5017fffe-ede1-44f5-968f-dcc6f3fba16e), Campaign *Abandon de site ss pdt - A/b Testing* (ba2b25b6-b225-432d-89a5-bb322dc05554)\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 2, MinExpectedValue: 2, MaxExpectedValue: 2, DeviationRatio: 22.91 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:05.8282996Z",
+        "Topic": "Account/5017fffe-ede1-44f5-968f-dcc6f3fba16e/Monitoring/Info",
+        "Title": "Coffre Fort Plus",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Coffre Fort Plus* (5017fffe-ede1-44f5-968f-dcc6f3fba16e), Campaign *Abandon de panier < 167€HT -A/B Testing Cart* (3c15e31b-5397-4530-8005-f96d5e1e4b00)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.00 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:09.365584Z",
+        "Topic": "Account/4f30cf32-1cfc-4f8c-b4eb-9a2455c3988f/Monitoring/Info",
+        "Title": "passage du desir",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*passage du desir* (4f30cf32-1cfc-4f8c-b4eb-9a2455c3988f), Campaign *S2.Abandon panier > 69€ : PC* (b9895ed4-cba1-452d-bad0-f48040f5bc86)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 44.03 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:36.7004453Z",
+        "Topic": "Account/4f30cf32-1cfc-4f8c-b4eb-9a2455c3988f/Monitoring/Info",
+        "Title": "passage du desir",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*passage du desir* (4f30cf32-1cfc-4f8c-b4eb-9a2455c3988f), Campaign *S2.Abandon panier > 69€ : PC* (b9895ed4-cba1-452d-bad0-f48040f5bc86)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 44.03 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:50.1015982Z",
+        "Topic": "Account/43c0a8c1-3100-4d6c-a776-25169ee70e97/Monitoring/Info",
+        "Title": "les cercles de la forme",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*les cercles de la forme* (43c0a8c1-3100-4d6c-a776-25169ee70e97), Campaign *S2.Abandon page panier (A/B test): PC* (3ff30c03-59cd-42bc-b4bb-0c938d94f816)\nLast: 64@2019-07-01 08:00. Expected: ExpectedValue: 18, MinExpectedValue: 15, MaxExpectedValue: 21, DeviationRatio: 67.42 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:09.7947367Z",
+        "Topic": "Account/43c0a8c1-3100-4d6c-a776-25169ee70e97/Monitoring/Info",
+        "Title": "les cercles de la forme",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*les cercles de la forme* (43c0a8c1-3100-4d6c-a776-25169ee70e97), Campaign *S2.Abandon page panier (A/B test): PC* (3ff30c03-59cd-42bc-b4bb-0c938d94f816)\nLast: 71@2019-07-01 14:00. Expected: ExpectedValue: 51, MinExpectedValue: 44, MaxExpectedValue: 59, DeviationRatio: 16.68 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:09.9293808Z",
+        "Topic": "Account/47a62b44-f3b1-4091-9b1d-1e17be018e98/Monitoring/Info",
+        "Title": "Hotel Montvallon",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High Visits for\n*Hotel Montvallon* (47a62b44-f3b1-4091-9b1d-1e17be018e98)\nLast: 255,124@2019-06-30 00:00. Expected: ExpectedValue: 130,298, MinExpectedValue: 110,753, MaxExpectedValue: 149,843, DeviationRatio: 41.27 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:01.4169468Z",
+        "Topic": "Account/47a62b44-f3b1-4091-9b1d-1e17be018e98/Monitoring/Info",
+        "Title": "Hotel Montvallon",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Hotel Montvallon* (47a62b44-f3b1-4091-9b1d-1e17be018e98), Campaign *Popin Bons Plans Responsive FR* (705918e6-5cbd-46c4-abb2-43a4d101408a)\nLast: 1@2019-07-01 12:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 88.77 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:27.5806141Z",
+        "Topic": "Account/47a62b44-f3b1-4091-9b1d-1e17be018e98/Monitoring/Info",
+        "Title": "Hotel Montvallon",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Hotel Montvallon* (47a62b44-f3b1-4091-9b1d-1e17be018e98), Campaign *Popin de réassurance PC* (17b89433-a9b9-4902-86bb-7641adb00147)\nLast: 1@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 85.20 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:09.8277977Z",
+        "Topic": "Account/42d60477-3851-4fca-9d0e-ee570521ac69/Monitoring/Info",
+        "Title": "NMMEDICAL",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*NMMEDICAL* (42d60477-3851-4fca-9d0e-ee570521ac69), Campaign *S6 - Collecte de mail : PC* (9859c4cf-82dd-4b21-a717-2580cd38384d)\nLast: 71@2019-07-01 08:00. Expected: ExpectedValue: 30, MinExpectedValue: 25, MaxExpectedValue: 34, DeviationRatio: 51.92 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:25.2012917Z",
+        "Topic": "Account/42d60477-3851-4fca-9d0e-ee570521ac69/Monitoring/Info",
+        "Title": "NMMEDICAL",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*NMMEDICAL* (42d60477-3851-4fca-9d0e-ee570521ac69), Campaign *S2 - Abandon de panier > 500€ hors tunnel : PC* (3e98af79-591d-4ed4-9605-23fdc53ec297)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 95.45 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:38.4325731Z",
+        "Topic": "Account/42d60477-3851-4fca-9d0e-ee570521ac69/Monitoring/Info",
+        "Title": "NMMEDICAL",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*NMMEDICAL* (42d60477-3851-4fca-9d0e-ee570521ac69), Campaign *S6 - Collecte de mail : PC* (9859c4cf-82dd-4b21-a717-2580cd38384d)\nLast: 105@2019-07-01 14:00. Expected: ExpectedValue: 75, MinExpectedValue: 64, MaxExpectedValue: 87, DeviationRatio: 17.31 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:53.8916445Z",
+        "Topic": "Account/42d60477-3851-4fca-9d0e-ee570521ac69/Monitoring/Info",
+        "Title": "NMMEDICAL",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*NMMEDICAL* (42d60477-3851-4fca-9d0e-ee570521ac69), Campaign *S2 - Abandon de panier > 500€ hors tunnel : PC* (3e98af79-591d-4ed4-9605-23fdc53ec297)\nLast: 3@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 98.32 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:14.5315483Z",
+        "Topic": "Account/42d60477-3851-4fca-9d0e-ee570521ac69/Monitoring/Info",
+        "Title": "NMMEDICAL",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*NMMEDICAL* (42d60477-3851-4fca-9d0e-ee570521ac69), Campaign *S1 - Abandon de panier > 500€ dans le tunnel : PC* (c07cb036-a1d4-4cb6-887d-9c45d70bbe18)\nLast: 1@2019-07-01 14:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 99.85 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:06.7537678Z",
+        "Topic": "Account/2ac71b34-fcbf-4284-afcd-94f17f327590/Monitoring/Info",
+        "Title": "HOTEL KERJULIETTE (CHAMBRE)",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High Visits for\n*HOTEL KERJULIETTE (CHAMBRE)* (2ac71b34-fcbf-4284-afcd-94f17f327590)\nLast: 936,332@2019-06-30 00:00. Expected: ExpectedValue: 810,139, MinExpectedValue: 688,618, MaxExpectedValue: 931,660, DeviationRatio: 0.50 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:15:52.4211966Z",
+        "Topic": "Account/2ac71b34-fcbf-4284-afcd-94f17f327590/Monitoring/Info",
+        "Title": "HOTEL KERJULIETTE (CHAMBRE)",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*HOTEL KERJULIETTE (CHAMBRE)* (2ac71b34-fcbf-4284-afcd-94f17f327590), Campaign *Popin de réassurance PC_FR* (94b26321-88d0-4cd0-b4ea-d071f8f00c48)\nLast: 7@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 94.90 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:04.7576907Z",
+        "Topic": "Account/24cbb104-9d63-491d-83f0-27182f1fbfad/Monitoring/Info",
+        "Title": "Hotel thalasso resort Bretagne Spa Marin Val Andre",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High Visits for\n*Hotel thalasso resort Bretagne Spa Marin Val Andre* (24cbb104-9d63-491d-83f0-27182f1fbfad)\nLast: 7,832,422@2019-06-30 00:00. Expected: ExpectedValue: 2,571,642, MinExpectedValue: 2,185,896, MaxExpectedValue: 2,957,388, DeviationRatio: 62.24 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:08.456812Z",
+        "Topic": "Account/24cbb104-9d63-491d-83f0-27182f1fbfad/Monitoring/Info",
+        "Title": "Hotel thalasso resort Bretagne Spa Marin Val Andre",
+        "NotificationLevel": 3,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Critical*): High CampaignImpressions for\n*Hotel thalasso resort Bretagne Spa Marin Val Andre* (24cbb104-9d63-491d-83f0-27182f1fbfad), Campaign *Pop in reassurance PC* (898c5ced-d21e-480b-8347-37683462dbee)\nLast: 21@2019-07-01 14:00. Expected: ExpectedValue: 7, MinExpectedValue: 6, MaxExpectedValue: 8, DeviationRatio: 62.17 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:39.1718971Z",
+        "Topic": "Account/24cbb104-9d63-491d-83f0-27182f1fbfad/Monitoring/Info",
+        "Title": "Hotel thalasso resort Bretagne Spa Marin Val Andre",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Hotel thalasso resort Bretagne Spa Marin Val Andre* (24cbb104-9d63-491d-83f0-27182f1fbfad), Campaign *Pop in reassurance Tablette* (f9efc9c0-daad-4047-874c-d92435a5a102)\nLast: 1@2019-07-01 12:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 17.78 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:15:55.4885473Z",
+        "Topic": "Account/246eb5a3-79d6-4f85-96ec-c5eb3f76fc4c/Monitoring/Info",
+        "Title": "Prismashop",
+        "NotificationLevel": 2,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Warning*): High CampaignImpressions for\n*Prismashop* (246eb5a3-79d6-4f85-96ec-c5eb3f76fc4c), Campaign *Abandon de site - Marques* (984faa2a-bffd-4dd0-b233-3c797108d41b)\nLast: 44@2019-07-01 08:00. Expected: ExpectedValue: 23, MinExpectedValue: 19, MaxExpectedValue: 26, DeviationRatio: 41.13 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:33.2823172Z",
+        "Topic": "Account/246eb5a3-79d6-4f85-96ec-c5eb3f76fc4c/Monitoring/Info",
+        "Title": "Prismashop",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Prismashop* (246eb5a3-79d6-4f85-96ec-c5eb3f76fc4c), Campaign *Abandon de panier - PC* (f7ae42f2-ba72-4304-8122-98fb41c9f2e3)\nLast: 5@2019-07-01 08:00. Expected: ExpectedValue: 2, MinExpectedValue: 2, MaxExpectedValue: 2, DeviationRatio: 59.23 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:17:05.8277669Z",
+        "Topic": "Account/246eb5a3-79d6-4f85-96ec-c5eb3f76fc4c/Monitoring/Info",
+        "Title": "Prismashop",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Prismashop* (246eb5a3-79d6-4f85-96ec-c5eb3f76fc4c), Campaign *Abandon de panier - Mobile* (99dfc4c0-152b-4ff7-83b6-322121bd952a)\nLast: 1@2019-07-01 11:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 11.14 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:13.0355542Z",
+        "Topic": "Account/2387fe45-849e-4e25-bf2e-405104888a11/Monitoring/Info",
+        "Title": "mes bijoux fr",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*mes bijoux fr* (2387fe45-849e-4e25-bf2e-405104888a11), Campaign *S46-VP/ Soldes remise 40% : PC & Mobile* (12719335-9ee9-4823-9d80-4cb294f7af26)\nLast: 4@2019-07-01 08:00. Expected: ExpectedValue: 2, MinExpectedValue: 2, MaxExpectedValue: 2, DeviationRatio: 39.76 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:40.7366685Z",
+        "Topic": "Account/2387fe45-849e-4e25-bf2e-405104888a11/Monitoring/Info",
+        "Title": "mes bijoux fr",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*mes bijoux fr* (2387fe45-849e-4e25-bf2e-405104888a11), Campaign *S45- VP/Soldes remise 30% : PC & Mobile* (930d70e9-48ca-4b8a-9a9f-6b251a06c7bf)\nLast: 8@2019-07-01 08:00. Expected: ExpectedValue: 3, MinExpectedValue: 2, MaxExpectedValue: 3, DeviationRatio: 63.28 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:50.5520953Z",
+        "Topic": "Account/2387fe45-849e-4e25-bf2e-405104888a11/Monitoring/Info",
+        "Title": "mes bijoux fr",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*mes bijoux fr* (2387fe45-849e-4e25-bf2e-405104888a11), Campaign *S44- VP/Soldes remise 20% : PC & Mobile* (1c81d025-cf2e-4453-bc41-c844ff1a9198)\nLast: 21@2019-07-01 08:00. Expected: ExpectedValue: 18, MinExpectedValue: 15, MaxExpectedValue: 21, DeviationRatio: 1.38 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:54.880524Z",
+        "Topic": "Account/2387fe45-849e-4e25-bf2e-405104888a11/Monitoring/Info",
+        "Title": "mes bijoux fr",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*mes bijoux fr* (2387fe45-849e-4e25-bf2e-405104888a11), Campaign *S42 - HB Soldes 2019 : PC & Mobile* (40356533-9a12-4a77-bc98-c38a8204c2d7)\nLast: 36@2019-07-01 14:00. Expected: ExpectedValue: 26, MinExpectedValue: 22, MaxExpectedValue: 30, DeviationRatio: 17.64 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T02:31:01.6334816Z",
+        "Topic": "Account/12981581-c381-480d-91e1-b86ba5e5f9a4/Monitoring/Alert",
+        "Title": "AVAILPRO",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): Low Visits for\n*AVAILPRO* (12981581-c381-480d-91e1-b86ba5e5f9a4).\nLast: 0@2019-07-01 02:30. Expected: ExpectedValue: , MinExpectedValue: , MaxExpectedValue: , DeviationRatio: ",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "SentAtUtc": "2019-07-01T09:16:09.3631372Z",
+        "Topic": "Account/0ec00376-c2d8-4bb0-ada5-9b2373a482f7/Monitoring/Info",
+        "Title": "Au nom de la rose",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Au nom de la rose* (0ec00376-c2d8-4bb0-ada5-9b2373a482f7), Campaign *Abandon de panier - PC* (f12e3c98-b337-42a0-a000-7449ddae8a3c)\nLast: 2@2019-07-01 08:00. Expected: ExpectedValue: 1, MinExpectedValue: 1, MaxExpectedValue: 1, DeviationRatio: 40.99 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T09:16:25.1702584Z",
+        "Topic": "Account/0ec00376-c2d8-4bb0-ada5-9b2373a482f7/Monitoring/Info",
+        "Title": "Au nom de la rose",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Au nom de la rose* (0ec00376-c2d8-4bb0-ada5-9b2373a482f7), Campaign *Abandon de panier - Mobile* (dad9a5fc-753c-4197-858f-77e29cfbb85e)\nLast: 1@2019-07-01 08:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 75.65 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:07.5329205Z",
+        "Topic": "Account/0ec00376-c2d8-4bb0-ada5-9b2373a482f7/Monitoring/Info",
+        "Title": "Au nom de la rose",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Au nom de la rose* (0ec00376-c2d8-4bb0-ada5-9b2373a482f7), Campaign *Abandon de site sans panier - Mobile* (0f96d3da-14f3-45d9-a008-6c8fe0f7e1ec)\nLast: 1@2019-07-01 09:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 104.53 %",
+            "ContentType": 2
+          }
+        ]
+      },
+      {
+        "SentAtUtc": "2019-07-01T15:16:29.0011261Z",
+        "Topic": "Account/0ec00376-c2d8-4bb0-ada5-9b2373a482f7/Monitoring/Info",
+        "Title": "Au nom de la rose",
+        "NotificationLevel": 1,
+        "Sender": "AccountAlerting",
+        "NotificationContents": [
+          {
+            "Content": "Anomaly detected (*Info*): High CampaignImpressions for\n*Au nom de la rose* (0ec00376-c2d8-4bb0-ada5-9b2373a482f7), Campaign *Abandon de panier - PC* (f12e3c98-b337-42a0-a000-7449ddae8a3c)\nLast: 3@2019-07-01 13:00. Expected: ExpectedValue: 0, MinExpectedValue: 0, MaxExpectedValue: 0, DeviationRatio: 100.00 %",
+            "ContentType": 2
+          }
+        ]
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+  
